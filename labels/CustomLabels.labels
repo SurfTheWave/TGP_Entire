@@ -1,0 +1,2888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>APAC_Call_slot_10_00pm_CST_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>APAC Call slot 10:00pm CST&lt;br/&gt;</shortDescription>
+        <value>APAC Call slot 10:00pm CST&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Account_detail</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account detail</shortDescription>
+        <value>Account detail</value>
+    </labels>
+    <labels>
+        <fullName>Action_Closure_Notes_Comments_missing</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Action Closure Notes / Comments missing</shortDescription>
+        <value>Action Closure Notes / Comments missing</value>
+    </labels>
+    <labels>
+        <fullName>Action_Record_Added_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Action Record Added Successfully!</shortDescription>
+        <value>Action Record Added Successfully!</value>
+    </labels>
+    <labels>
+        <fullName>Action_Records_Saved_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Action Records Saved Successfully!</shortDescription>
+        <value>Action Records Saved Successfully!</value>
+    </labels>
+    <labels>
+        <fullName>Additional_Notes_Comments_missing</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Additional Notes / Comments missing</shortDescription>
+        <value>Additional Notes / Comments missing</value>
+    </labels>
+    <labels>
+        <fullName>Advanced_Search_Criteria</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Advanced Search Criteria</shortDescription>
+        <value>Advanced Search Criteria</value>
+    </labels>
+    <labels>
+        <fullName>Analytic_Data_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Analytic Data Name</shortDescription>
+        <value>- Analytic Services</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_Daily_Agenda_mail_subject</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App meeting Daily Agenda mail subject</shortDescription>
+        <value>BPO Solution Approval call agenda for</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_cancelled_template</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App meeting cancelled template</shortDescription>
+        <value>App Meeting cancelled template</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_dailymail_last_line</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App meeting dailymail last line</shortDescription>
+        <value>This is a system generated message. Please do not reply to this message.</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_dailymail_last_para</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App meeting dailymail last para1</shortDescription>
+        <value>To view all upcoming approval calls please go to the</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_dailymail_last_para2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App_meeting_dailymail_last_para2</shortDescription>
+        <value>(requires Solution Workbench access).  The Approval Calendar can also be</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_dailymail_last_para3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App meeting dailymail last para3</shortDescription>
+        <value>(does not require Solution Workbench access).</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_dailymail_para1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App meeting dailymail para1</shortDescription>
+        <value>Below is the agenda for</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_dailymail_para1_continue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App meeting dailymail para1 continue</shortDescription>
+        <value>approval calls. To access review materials for the meeting click on the Opportunity Documents link below. To access opportunity details click on the Opportunity Name link (requires Solution Workbench access).</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_pending_template</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App_meeting pending template</shortDescription>
+        <value>App Meet Pending Clarification template</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_recalled_template</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App meeting recalled template</shortDescription>
+        <value>App meeting recall template</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_scheduled_template</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App meeting scheduled template</shortDescription>
+        <value>App Meeting scheduled template</value>
+    </labels>
+    <labels>
+        <fullName>App_meeting_submitted_template</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App meeting submitted template</shortDescription>
+        <value>App Meeting submitted Template</value>
+    </labels>
+    <labels>
+        <fullName>Application</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Application</shortDescription>
+        <value>Application</value>
+    </labels>
+    <labels>
+        <fullName>Approval_Meeting_Cancelled</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Approval Meeting Cancelled</shortDescription>
+        <value>Cancelled</value>
+    </labels>
+    <labels>
+        <fullName>Approval_Meeting_Recalled</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Approval Meeting Recalled</shortDescription>
+        <value>Recalled</value>
+    </labels>
+    <labels>
+        <fullName>Approval_Meeting_scheduled</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Approval Meeting scheduled</shortDescription>
+        <value>Scheduled</value>
+    </labels>
+    <labels>
+        <fullName>Approval_Meeting_submitted</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Approval Meeting submitted</shortDescription>
+        <value>Submitted</value>
+    </labels>
+    <labels>
+        <fullName>Approval_meeting_Pending</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Approval meeting Pending</shortDescription>
+        <value>Pending Clarification</value>
+    </labels>
+    <labels>
+        <fullName>Approval_request_sent_to_Reviewer_s_successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Approval request sent to Reviewer(s) successfully</shortDescription>
+        <value>Approval request sent to Reviewer(s) successfully</value>
+    </labels>
+    <labels>
+        <fullName>ApproveReqDetails</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ApproveReqDetails</shortDescription>
+        <value>Approval Request Details</value>
+    </labels>
+    <labels>
+        <fullName>Assumption_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Assumption cannot be left blank.</shortDescription>
+        <value>Assumption cannot be left blank.</value>
+    </labels>
+    <labels>
+        <fullName>Assumptions_can_be_added_for_the_service_in_scope</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Assumptions can be added for the service in scope.</shortDescription>
+        <value>Assumptions can be added for the service in scope. Please check the service for which you are trying to add assumption</value>
+    </labels>
+    <labels>
+        <fullName>BPOSolutionUserName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BPOSolutionUserName</shortDescription>
+        <value>BPOSolutionWorkbench</value>
+    </labels>
+    <labels>
+        <fullName>BPOSolutionWorkbenchEmail</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BPOSolutionWorkbenchEmail</shortDescription>
+        <value>0D2E00000008Qi0</value>
+    </labels>
+    <labels>
+        <fullName>BPO_Net_Revenue_Range</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BPO Net Revenue(Range):</shortDescription>
+        <value>BPO Net Revenue(Range):</value>
+    </labels>
+    <labels>
+        <fullName>BPO_tech_value_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BPO tech value cannot be None. Please select another value</shortDescription>
+        <value>BPO tech value cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>BSS</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BSS:</shortDescription>
+        <value>BSS:</value>
+    </labels>
+    <labels>
+        <fullName>BSS_Architect</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BSS Architect</shortDescription>
+        <value>BSS Architect</value>
+    </labels>
+    <labels>
+        <fullName>BSS_Architect_PMO_Group</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BSS Architect PMO Group</shortDescription>
+        <value>BSS Architect PMO Group</value>
+    </labels>
+    <labels>
+        <fullName>BSS_Command_center_value_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BSS Command center value cannot be None. Please select another value</shortDescription>
+        <value>BSS Command center value cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>BSS_EDM_value_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BSS EDM value cannot be None. Please select another value</shortDescription>
+        <value>BSS EDM value cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>BSS_SC_value_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BSS SC value cannot be None. Please select another value</shortDescription>
+        <value>BSS SC value cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>BSS_SM_value_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BSS SM value cannot be None. Please select another value</shortDescription>
+        <value>BSS SM value cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>BSS_User</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BSS User</shortDescription>
+        <value>Ashokkumar Dillibabu</value>
+    </labels>
+    <labels>
+        <fullName>BUProfID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BUProfID</shortDescription>
+        <value>00eE0000000ae8YIAQ</value>
+    </labels>
+    <labels>
+        <fullName>Batch_Query</fullName>
+        <categories>Batch_UTIL_UtilizationDataManagerNew</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Batch_Query</shortDescription>
+        <value>SELECT Id from User_Master__c</value>
+    </labels>
+    <labels>
+        <fullName>Booking_confirmed_for_requested_slot</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Booking confirmed for requested slot!</shortDescription>
+        <value>Booking confirmed for requested slot!</value>
+    </labels>
+    <labels>
+        <fullName>CPR_Analyst</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CPR Analyst</shortDescription>
+        <value>CPR Analyst</value>
+    </labels>
+    <labels>
+        <fullName>CSVMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CSVMessage</shortDescription>
+        <value>If no record is selected, first 1000 of the displayed records will be downloaded.
+To download selected records please select the desired rows you want to download. If more that 1000 records are selected first 1000 of the selected records will be downloaded.</value>
+    </labels>
+    <labels>
+        <fullName>Cancel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cancel</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>Capability_Lead</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Capability Lead</shortDescription>
+        <value>Capability_Lead</value>
+    </labels>
+    <labels>
+        <fullName>Capability_Team_Edit</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Capability Team Edit</shortDescription>
+        <value>0PSE0000000LzTC</value>
+    </labels>
+    <labels>
+        <fullName>Capacity_Services_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Capacity Services Name</shortDescription>
+        <value>- Capacity Services</value>
+    </labels>
+    <labels>
+        <fullName>Choose_CSV_File</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Choose_CSV_File</shortDescription>
+        <value>Choose your .CSV File</value>
+    </labels>
+    <labels>
+        <fullName>Choose_Excel_File</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Choose_Excel_File</shortDescription>
+        <value>Choose your Excel File</value>
+    </labels>
+    <labels>
+        <fullName>Choose_document_before_clicking_on_upload</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Choose document before clicking on upload</shortDescription>
+        <value>Choose document before clicking on upload</value>
+    </labels>
+    <labels>
+        <fullName>Classification_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Classification cannot be None. Please select another value</shortDescription>
+        <value>Classification cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Client</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Client</shortDescription>
+        <value>Client</value>
+    </labels>
+    <labels>
+        <fullName>ClientVisitCalender_id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ClientVisitCalender id</shortDescription>
+        <value>023E0000005Jknj</value>
+    </labels>
+    <labels>
+        <fullName>Client_Dependency_can_be_added_for_the_service_in_scope</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Client Dependency can be added for the service in scope.</shortDescription>
+        <value>Client Dependency can be added for the service in scope. Please check the service for which you are trying to add client dependency</value>
+    </labels>
+    <labels>
+        <fullName>Client_Dependency_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Client Dependency cannot be left blank</shortDescription>
+        <value>Client Dependency cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Client_Geo_Area_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Client Geo Area cannot be None. Please select another value</shortDescription>
+        <value>Client Geo Area cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Client_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Client Name:</shortDescription>
+        <value>Client Name:</value>
+    </labels>
+    <labels>
+        <fullName>Client_Name_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Client Name cannot be left blank</shortDescription>
+        <value>Client Name cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Close</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Close</shortDescription>
+        <value>Close</value>
+    </labels>
+    <labels>
+        <fullName>Comments</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Comments</shortDescription>
+        <value>Comments</value>
+    </labels>
+    <labels>
+        <fullName>Comments_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Comments cannot be left blank</shortDescription>
+        <value>Comments cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Commercial_Team</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Commercial Team</shortDescription>
+        <value>Commercial Team</value>
+    </labels>
+    <labels>
+        <fullName>Complex_Cost_Architect</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Complex Cost Architect</shortDescription>
+        <value>Complex Cost Architect</value>
+    </labels>
+    <labels>
+        <fullName>Complex_Cost_Architect_PMO_Group</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Complex Cost Architect PMO Group</shortDescription>
+        <value>Complex Cost Architect PMO Group</value>
+    </labels>
+    <labels>
+        <fullName>Conference_ID_127058362_br_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Conference ID: 127058362&lt;br/&gt;&lt;br/&gt;</shortDescription>
+        <value>Conference ID: 127058362&lt;br/&gt;&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Conference_ID_185759473_br_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Conference ID: 185759473 &lt;br/&gt;&lt;br/&gt;</shortDescription>
+        <value>Conference ID: 185759473 &lt;br/&gt;&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Conference_ID_960381695_br_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Conference ID: 960381695 &lt;br/&gt;&lt;br/&gt;</shortDescription>
+        <value>Conference ID: 960381695 &lt;br/&gt;&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Contract_End_Date_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contract End Date cannot be left blank</shortDescription>
+        <value>Contract End Date cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Contract_Signature_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contract Signature cannot be left blank</shortDescription>
+        <value>Contract Signature cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Contract_Start_Date_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contract Start Date cannot be left blank</shortDescription>
+        <value>Contract Start Date cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Cost_Summary_Details</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cost_Summary_Details</shortDescription>
+        <value>Cost Summary Details</value>
+    </labels>
+    <labels>
+        <fullName>Count_of_language</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Count of language:</shortDescription>
+        <value>Count of language:</value>
+    </labels>
+    <labels>
+        <fullName>Currently_No_Records_Found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Currently No Records Found</shortDescription>
+        <value>Currently No Records Found</value>
+    </labels>
+    <labels>
+        <fullName>Daily_Agenda_No_calls_message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Daily Agenda No calls message</shortDescription>
+        <value>There are no Solution approval calls scheduled for</value>
+    </labels>
+    <labels>
+        <fullName>Daily_Agenda_mail_template_name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Daily Agenda mail template name</shortDescription>
+        <value>Daily_Agenda_Mail_Template</value>
+    </labels>
+    <labels>
+        <fullName>Datetime_format</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Datetime format</shortDescription>
+        <value>MM/dd/yyyy hh:mm a</value>
+    </labels>
+    <labels>
+        <fullName>Deal_RAG_Report</fullName>
+        <categories>Layer report</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Deal RAG Report</shortDescription>
+        <value>00OE0000002s7cb</value>
+    </labels>
+    <labels>
+        <fullName>Deal_Report_Client</fullName>
+        <categories>Layer Report</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Deal Report Client</shortDescription>
+        <value>00OE0000002s8As</value>
+    </labels>
+    <labels>
+        <fullName>Deal_Report_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Deal Report Id</shortDescription>
+        <value>00Oc0000000PRjI</value>
+    </labels>
+    <labels>
+        <fullName>Deal_in_BPOSE_value_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Deal in BPOSE value cannot be None. Please select another value</shortDescription>
+        <value>Deal in BPOSE value cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Decision_Description_field_in_Decision_Summary_cannot_be_deleted</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Decision Description field in Decision Summary cannot be deleted!</shortDescription>
+        <value>Decision Description field in Decision Summary cannot be deleted!</value>
+    </labels>
+    <labels>
+        <fullName>Decision_Record_Added_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Decision Record Added Successfully!</shortDescription>
+        <value>Decision Record Added Successfully!</value>
+    </labels>
+    <labels>
+        <fullName>Decision_Records_Saved_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Decision Records Saved Successfully!</shortDescription>
+        <value>Decision Records Saved Successfully!</value>
+    </labels>
+    <labels>
+        <fullName>Delete_msg_for_team_mem</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Delete msg for team mem</shortDescription>
+        <value>SD Governance Lead/Coach role is deleted from Opportunity Team.</value>
+    </labels>
+    <labels>
+        <fullName>Double_Greater_Than</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Double Greater Than</shortDescription>
+        <value>&gt;&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Double_Less_Than</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Double Less Than</shortDescription>
+        <value>&lt;&lt;</value>
+    </labels>
+    <labels>
+        <fullName>Duplication_is_not_Allowed</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Duplication is not Allowed</shortDescription>
+        <value>Duplication is not Allowed</value>
+    </labels>
+    <labels>
+        <fullName>EALA_Call_slot_7_00am_CST_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EALA Call  slot 7:00am CST &lt;br/&gt;</shortDescription>
+        <value>EALA Call  slot 7:00am CST &lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Edit</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Edit</shortDescription>
+        <value>Edit</value>
+    </labels>
+    <labels>
+        <fullName>End_Date</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>End Date</shortDescription>
+        <value>End Date</value>
+    </labels>
+    <labels>
+        <fullName>Error_Loading_page</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error Loading page</shortDescription>
+        <value>Error Loading page</value>
+    </labels>
+    <labels>
+        <fullName>Error_in_Saving</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error in Saving</shortDescription>
+        <value>Error in Saving!</value>
+    </labels>
+    <labels>
+        <fullName>Error_in_saving_after_delete</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error in saving after delete!</shortDescription>
+        <value>Error in saving after delete!</value>
+    </labels>
+    <labels>
+        <fullName>Error_in_sending_mail</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error in sending mail!</shortDescription>
+        <value>Error in sending mail!</value>
+    </labels>
+    <labels>
+        <fullName>Error_while_Submitting</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error while Submitting!</shortDescription>
+        <value>Error while Submitting!</value>
+    </labels>
+    <labels>
+        <fullName>EventRecordtypeID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EventRecordtypeID</shortDescription>
+        <value>012E0000000NJNh</value>
+    </labels>
+    <labels>
+        <fullName>Exception_Search</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Exception Search</shortDescription>
+        <value>Exception Search</value>
+    </labels>
+    <labels>
+        <fullName>Export</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Export</shortDescription>
+        <value>Export</value>
+    </labels>
+    <labels>
+        <fullName>Export_Service_Report</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Export Service Report</shortDescription>
+        <value>Export Service Report</value>
+    </labels>
+    <labels>
+        <fullName>Export_To_CSV</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Export To CSV</shortDescription>
+        <value>Export To CSV</value>
+    </labels>
+    <labels>
+        <fullName>FTE_Ramp_by_Delivery_center</fullName>
+        <categories>Report Id</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>FTE Ramp by Delivery center</shortDescription>
+        <value>00Oc0000000PWDC</value>
+    </labels>
+    <labels>
+        <fullName>FTE_Range</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>FTE Range:</shortDescription>
+        <value>FTE Range:</value>
+    </labels>
+    <labels>
+        <fullName>FTE_ramp_by_Client_name</fullName>
+        <categories>Report Id</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>FTE ramp by Client name</shortDescription>
+        <value>00Oc0000000PWDH</value>
+    </labels>
+    <labels>
+        <fullName>Failure_in_deleting_record</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Failure in deleting record</shortDescription>
+        <value>Failure in deleting record.</value>
+    </labels>
+    <labels>
+        <fullName>Failure_in_saving_record</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Failure in saving record</shortDescription>
+        <value>Failure in saving record</value>
+    </labels>
+    <labels>
+        <fullName>Failure_in_sending_Email</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Failure in sending Email!</shortDescription>
+        <value>Failure in sending Email!</value>
+    </labels>
+    <labels>
+        <fullName>Failure_in_uploading_file</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Failure in uploading file</shortDescription>
+        <value>Failure in uploading file</value>
+    </labels>
+    <labels>
+        <fullName>File_Upload</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>File Upload</shortDescription>
+        <value>File Upload</value>
+    </labels>
+    <labels>
+        <fullName>File_uploaded_successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>File uploaded successfully</shortDescription>
+        <value>File uploaded successfully</value>
+    </labels>
+    <labels>
+        <fullName>Following_SRAT_Checklist_Pending_for_Submission</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Following SRAT Checklist Pending for Submission</shortDescription>
+        <value>Following SRAT Checklist Pending for Submission: \nDeal Name:</value>
+    </labels>
+    <labels>
+        <fullName>For_Opportunity</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>For Opportunity</shortDescription>
+        <value>For Opportunity click on the link below (requires Solution Workbench login):</value>
+    </labels>
+    <labels>
+        <fullName>For_Opportunity_click_on_the_link_below_requires_Solution_Workbench_login_n</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>For Opportunity click on the link below (requires Solution Workbench login): \n</shortDescription>
+        <value>For Opportunity click on the link below (requires Solution Workbench login): \n</value>
+    </labels>
+    <labels>
+        <fullName>Generate_Budget_Cost_Summary_Report</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Generate Budget Cost Summary Report</shortDescription>
+        <value>Generate Budget Cost Summary Report</value>
+    </labels>
+    <labels>
+        <fullName>Goto_Benchmark_Record</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Goto Benchmark Record</shortDescription>
+        <value>Goto Benchmark Record</value>
+    </labels>
+    <labels>
+        <fullName>Goto_Opportunity</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Goto Opportunity</shortDescription>
+        <value>Goto Opportunity</value>
+    </labels>
+    <labels>
+        <fullName>Goto_opp_GenInfoTab</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Goto_opp_GenInfoTab</shortDescription>
+        <value>Go to Opportunity General Information Tab</value>
+    </labels>
+    <labels>
+        <fullName>Greater_Than</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Greater Than</shortDescription>
+        <value>&lt;</value>
+    </labels>
+    <labels>
+        <fullName>High_Level_Mobilization_Plan_Report</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>High Level Mobilization Plan Report</shortDescription>
+        <value>00Oc0000000PRjh</value>
+    </labels>
+    <labels>
+        <fullName>IC_Operations_Group</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>IC Operations Group</shortDescription>
+        <value>IC Operations Group</value>
+    </labels>
+    <labels>
+        <fullName>IC_Solution_Architect</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>IC Solution Architect</shortDescription>
+        <value>IC Solution Architect</value>
+    </labels>
+    <labels>
+        <fullName>IC_solution_editor_profile</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>IC solution editor profile</shortDescription>
+        <value>IC Solution Editor</value>
+    </labels>
+    <labels>
+        <fullName>ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ID</shortDescription>
+        <value>id</value>
+    </labels>
+    <labels>
+        <fullName>INVALID_WPV_ID</fullName>
+        <categories>Mob_Deal_Track_Controller</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>INVALID WPV ID</shortDescription>
+        <value>Invalid High Level Mobilization Plan ID!</value>
+    </labels>
+    <labels>
+        <fullName>IOSolutionEditor_profile</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>IOSolutionEditor_profile</shortDescription>
+        <value>IO Solution Editor</value>
+    </labels>
+    <labels>
+        <fullName>IO_Operations_Group</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>IO Operations Group</shortDescription>
+        <value>IO Operations Group</value>
+    </labels>
+    <labels>
+        <fullName>IO_Solution_Architect</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>IO Solution Architect</shortDescription>
+        <value>IO Solution Architect</value>
+    </labels>
+    <labels>
+        <fullName>Identify_Deal_to_Benchmark</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Identify Deal to Benchmark</shortDescription>
+        <value>Identify Deal to Benchmark</value>
+    </labels>
+    <labels>
+        <fullName>Importance_to_the_client_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Importance to the client cannot be None. Please select another value</shortDescription>
+        <value>Importance to the client cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Industry_Lead</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Industry Lead</shortDescription>
+        <value>Industry Lead</value>
+    </labels>
+    <labels>
+        <fullName>Initial_Go_live_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Initial Go-live cannot be left blank</shortDescription>
+        <value>Initial Go-live cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Insufficient_Privileges</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Insufficient Privileges</shortDescription>
+        <value>Insufficient Privileges!</value>
+    </labels>
+    <labels>
+        <fullName>Insufficient_access_rights_Cannot_be_Added</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>&apos;Insufficient access rights: Cannot be Added&apos;</shortDescription>
+        <value>Insufficient access rights: Cannot be Added</value>
+    </labels>
+    <labels>
+        <fullName>Insufficient_access_rights_Cannot_be_Updated</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Insufficient access rights: Cannot be Updated</shortDescription>
+        <value>Insufficient access rights: Cannot be Updated</value>
+    </labels>
+    <labels>
+        <fullName>Invalid_Module_ID_or_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invalid Module ID or Name!</shortDescription>
+        <value>Invalid Module ID or Name!</value>
+    </labels>
+    <labels>
+        <fullName>Invalid_Wave_Plan_Version_ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invalid High Level Mobilization Plan ID</shortDescription>
+        <value>Invalid High Level Mobilization Plan ID!</value>
+    </labels>
+    <labels>
+        <fullName>Issue_Closure_Notes_Comments_missing</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Issue Closure Notes / Comments missing</shortDescription>
+        <value>Issue Closure Notes / Comments missing</value>
+    </labels>
+    <labels>
+        <fullName>Issue_Record_Added_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Issue Record Added Successfully!</shortDescription>
+        <value>Issue Record Added Successfully!</value>
+    </labels>
+    <labels>
+        <fullName>Issue_Records_Saved_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Issue Records Saved Successfully!</shortDescription>
+        <value>Issue Records Saved Successfully!</value>
+    </labels>
+    <labels>
+        <fullName>Join_Online_Meeting_Lync_Conferencing_details_br_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Join Online Meeting (Lync Conferencing details)&lt;br/&gt;&lt;br/&gt;</shortDescription>
+        <value>Join Online Meeting (Lync Conferencing details)&lt;br/&gt;&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Key_Buyer_Value_Description_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Key Buyer Value Description cannot be left blank</shortDescription>
+        <value>Key Buyer Value Description cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>L1ProfID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>L1ProfID</shortDescription>
+        <value>00eE0000000aeCLIAY</value>
+    </labels>
+    <labels>
+        <fullName>L2ProfID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>L2ProfID</shortDescription>
+        <value>00eE0000000qNqQIAU</value>
+    </labels>
+    <labels>
+        <fullName>L2User</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>L2User</shortDescription>
+        <value>00329000002dKre</value>
+    </labels>
+    <labels>
+        <fullName>Lead_Solution_Architect_IC</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lead Solution Architect - IC</shortDescription>
+        <value>Lead Solution Architect - IC</value>
+    </labels>
+    <labels>
+        <fullName>Lead_Solution_Architect_IO</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lead Solution Architect - IO</shortDescription>
+        <value>Lead Solution Architect - IO</value>
+    </labels>
+    <labels>
+        <fullName>Less_Than</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Less Than</shortDescription>
+        <value>&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Link_saved_successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Link saved successfully</shortDescription>
+        <value>Link saved successfully</value>
+    </labels>
+    <labels>
+        <fullName>Load</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Load</shortDescription>
+        <value>Load</value>
+    </labels>
+    <labels>
+        <fullName>Location_Definition</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Location Definition:</shortDescription>
+        <value>Location Definition:</value>
+    </labels>
+    <labels>
+        <fullName>Lync_https_Lync_accenture_com_meet_reena_kushalappa_4GCPP353_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lync: https://Lync.accenture.com/meet/reena.kushalappa/4GCPP353 &lt;br/&gt;</shortDescription>
+        <value>Lync:  https://Lync.accenture.com/meet/reena.kushalappa/4GCPP353 &lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Lync_https_Lync_accenture_com_meet_reena_kushalappa_H2Z3WF4V_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lync: https://Lync.accenture.com/meet/reena.kushalappa/H2Z3WF4V &lt;br/&gt;</shortDescription>
+        <value>Lync: https://Lync.accenture.com/meet/reena.kushalappa/H2Z3WF4V br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Lync_https_Lync_accenture_com_meet_reena_kushalappa_HCG7FFFS_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lync: https://Lync.accenture.com/meet/reena.kushalappa/HCG7FFFS &lt;br/&gt;</shortDescription>
+        <value>Lync: https://Lync.accenture.com/meet/reena.kushalappa/HCG7FFFS &lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Lync_https_Lync_accenture_com_meet_reena_kushalappa_NML8V9VL_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lync: https://Lync.accenture.com/meet/reena.kushalappa/NML8V9VL &lt;br/&gt;</shortDescription>
+        <value>Lync: https://Lync.accenture.com/meet/reena.kushalappa/NML8V9VL &lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>MWBTicketBoolean</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>MWBTicketBoolean</shortDescription>
+        <value>True</value>
+    </labels>
+    <labels>
+        <fullName>M_Do_you_still_want_to_continue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>M! Do you still want to continue?</shortDescription>
+        <value>M! Do you still want to continue?</value>
+    </labels>
+    <labels>
+        <fullName>M_and_Region_APAC_Do_you_still_want_to_continue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>M and Region: APAC! Do you still want to continue?</shortDescription>
+        <value>M and Region: APAC! Do you still want to continue?</value>
+    </labels>
+    <labels>
+        <fullName>M_and_Region_EMEA_Do_you_still_want_to_continue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>M and Region: EMEA! Do you still want to continue?</shortDescription>
+        <value>M and Region: EMEA! Do you still want to continue?</value>
+    </labels>
+    <labels>
+        <fullName>M_and_Region_Latin_America_Do_you_still_want_to_continue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>M and Region: Latin America! Do you still want to continue?</shortDescription>
+        <value>M and Region: Latin America! Do you still want to continue?</value>
+    </labels>
+    <labels>
+        <fullName>M_and_Region_NA_Do_you_still_want_to_continue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>M and Region: NA! Do you still want to continue?</shortDescription>
+        <value>M and Region: NA! Do you still want to continue?</value>
+    </labels>
+    <labels>
+        <fullName>Manage_Out_Of_Office</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Manage_Out_Of_Office</shortDescription>
+        <value>Manage Out Of Office</value>
+    </labels>
+    <labels>
+        <fullName>Mandatory_fields_cannot_be_blank_in_General_Information_Section_Stage_Activity</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>&apos;Mandatory fields cannot be blank in General Information Section:[Stage,Activity</shortDescription>
+        <value>Mandatory fields cannot be blank in General Information Section:[Stage,Activity,Risk Level]</value>
+    </labels>
+    <labels>
+        <fullName>Maximum_character_limit_exceeded_for_Action_Ref_ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Maximum character limit exceeded for Action Ref ID</shortDescription>
+        <value>Maximum character limit exceeded for Action Ref ID</value>
+    </labels>
+    <labels>
+        <fullName>Maximum_character_limit_exceeded_for_Decision_Ref_ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Maximum character limit exceeded for Decision Ref ID</shortDescription>
+        <value>Maximum character limit exceeded for Decision Ref ID</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_Recalled_and_override_false</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting Recalled and override false</shortDescription>
+        <value>Request recall and false</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_Recalled_and_override_true</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting Recalled and override true</shortDescription>
+        <value>Request recall and true</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_Request_Cancelled_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting Request Cancelled Successfully!</shortDescription>
+        <value>Meeting Request Cancelled Successfully!</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_Submitted_and_override_true</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting Submitted and override true</shortDescription>
+        <value>Request Submitted and true</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_cancelled_and_override_false</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting cancelled and override false</shortDescription>
+        <value>Request Cancelled and false</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_cancelled_and_override_true</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting cancelled and override true</shortDescription>
+        <value>Request Cancelled and true</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_pending_and_override_false</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting pending and override false</shortDescription>
+        <value>Request Pending and false</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_pending_and_override_true</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting pending and override true</shortDescription>
+        <value>Request Pending and true</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_scheduled_And_false</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting scheduled And false</shortDescription>
+        <value>Request Scheduled and false</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_scheduled_And_overide_true</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting scheduled And overide true</shortDescription>
+        <value>Request Scheduled and true</value>
+    </labels>
+    <labels>
+        <fullName>Meeting_submited_And_false</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meeting submited And false</shortDescription>
+        <value>Request submitted and false</value>
+    </labels>
+    <labels>
+        <fullName>MobRLeadership_and_Admin</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>MobRLeadership and Admin</shortDescription>
+        <value>userProfileName.equalsIgnoreCase(&apos;Mobilization Regional Leadership&apos;) || userProfileName.equalsIgnoreCase(&apos;Mobilization Admin&apos;)</value>
+    </labels>
+    <labels>
+        <fullName>Mobilization_Admin</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Mobilization Admin</shortDescription>
+        <value>Mobilization Admin</value>
+    </labels>
+    <labels>
+        <fullName>Mobilization_Architect</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Mobilization Architect</shortDescription>
+        <value>Mobilization Architect</value>
+    </labels>
+    <labels>
+        <fullName>Mobilization_Architect_PMO_Group</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Mobilization Architect PMO Group</shortDescription>
+        <value>Mobilization Architect PMO Group</value>
+    </labels>
+    <labels>
+        <fullName>Mobilization_Regional_Leadership</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Mobilization Regional Leadership</shortDescription>
+        <value>Mobilization Regional Leadership</value>
+    </labels>
+    <labels>
+        <fullName>Multiple_or_Single_Offering</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Multiple or Single Offering:</shortDescription>
+        <value>Multiple or Single Offering:</value>
+    </labels>
+    <labels>
+        <fullName>My_Solution_Opportunities</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>My Solution Opportunities</shortDescription>
+        <value>My Solution Opportunities</value>
+    </labels>
+    <labels>
+        <fullName>NOTIFICATION_Meeting_confirmed_for_requested_slot_Client_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NOTIFICATION: Meeting confirmed for requested slot - Client Name:</shortDescription>
+        <value>NOTIFICATION: Meeting confirmed for requested slot - Client Name:</value>
+    </labels>
+    <labels>
+        <fullName>NO_Privilege_Contact_your_Admin</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NO Privilege Contact your Admin</shortDescription>
+        <value>No privilege. Please contact your administrator.</value>
+    </labels>
+    <labels>
+        <fullName>New_Event_created_successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New Event created successfully!</shortDescription>
+        <value>New Event created successfully!</value>
+    </labels>
+    <labels>
+        <fullName>Next</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Next</shortDescription>
+        <value>Next</value>
+    </labels>
+    <labels>
+        <fullName>No_Record_Found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Record Found</shortDescription>
+        <value>Sorry! No Record Found</value>
+    </labels>
+    <labels>
+        <fullName>No_Records_are_there_for_sending_the_Approval_mail</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Records are there for sending the Approval mail</shortDescription>
+        <value>No Records are there for sending the Approval mail</value>
+    </labels>
+    <labels>
+        <fullName>No_Records_are_there_for_sending_the_reminder_mail</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Records are there for sending the reminder mail</shortDescription>
+        <value>No Records are there for sending the reminder mail</value>
+    </labels>
+    <labels>
+        <fullName>No_SRAT_version_is_active</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No SRAT version is active</shortDescription>
+        <value>No SRAT version is active</value>
+    </labels>
+    <labels>
+        <fullName>No_Such_SRAT_Record_Exists</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Such SRAT Record Exists</shortDescription>
+        <value>No such SRAT Record exists</value>
+    </labels>
+    <labels>
+        <fullName>No_question_set_for_Establish_Business_Operations</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No question set for Establish Business Operations!</shortDescription>
+        <value>There is no question set for Establish Business Operations!</value>
+    </labels>
+    <labels>
+        <fullName>No_question_set_for_Implement_Delivery_Capability</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>There is no question set for Implement Delivery Capability</shortDescription>
+        <value>There is no question set for Implement Delivery Capability!</value>
+    </labels>
+    <labels>
+        <fullName>No_question_set_for_Journey_Management</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>&apos;There is no question set for Journey Management</shortDescription>
+        <value>There is no question set for Journey Management!</value>
+    </labels>
+    <labels>
+        <fullName>No_question_set_for_Manage_Mobilization_Program</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No question set for Manage Mobilization Program</shortDescription>
+        <value>There is no question set for Manage Mobilization Program!</value>
+    </labels>
+    <labels>
+        <fullName>No_question_set_for_OM_Readiness_Summary</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No question set for OM Readiness Summary</shortDescription>
+        <value>There is no question set for OM Readiness Summary!</value>
+    </labels>
+    <labels>
+        <fullName>No_such_SRAT_ID_exists</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No such SRAT ID exists</shortDescription>
+        <value>No such SRAT ID exists</value>
+    </labels>
+    <labels>
+        <fullName>No_such_Wave_Plan_Version_exists</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No such High Level Mobilization Plan exists</shortDescription>
+        <value>No such High Level Mobilization Plan exists</value>
+    </labels>
+    <labels>
+        <fullName>North_America_Call_slot_10_00am_CST_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>North America Call slot 10:00am  CST&lt;br/&gt;</shortDescription>
+        <value>North America Call slot 10:00am  CST&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Number_of_SDO_FTEs_per_Tower_Service</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Number of SDO FTEs per Tower/ Service</shortDescription>
+        <value>Number of SDO FTEs per Tower/ Service</value>
+    </labels>
+    <labels>
+        <fullName>OADM_Level_Loc_Number</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OADM_Level_Loc_Number</shortDescription>
+        <value>OADM Level, Location and Number of FTEs</value>
+    </labels>
+    <labels>
+        <fullName>OWDEmail</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OWDEmail</shortDescription>
+        <value>approval_process@7-1yofvdsttzch9h5q8lr9mhranlflf1gd55xxjcppgt66bkm3qa.c-3tzufeaq.cs14.apex.sandbox.salesforce.com</value>
+    </labels>
+    <labels>
+        <fullName>ObjectPageReference</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ObjectPageReference</shortDescription>
+        <value>a1i</value>
+    </labels>
+    <labels>
+        <fullName>Offering_Id_not_found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>&apos;Offering Id not found&apos;</shortDescription>
+        <value>Offering Id not found</value>
+    </labels>
+    <labels>
+        <fullName>Offering_Solution_Lead_Primary</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Offering Solution Lead: Primary</shortDescription>
+        <value>Offering Solution Lead: Primary</value>
+    </labels>
+    <labels>
+        <fullName>Offering_Solution_Lead_Primary_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>&apos;Offering Solution Lead: Primary cannot be left blank&apos;</shortDescription>
+        <value>Offering Solution Lead: Primary cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Offering_Solution_Lead_Secondary</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Offering Solution Lead: Secondary</shortDescription>
+        <value>Offering Solution Lead: Secondary</value>
+    </labels>
+    <labels>
+        <fullName>Offerings</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Offerings:</shortDescription>
+        <value>Offerings:</value>
+    </labels>
+    <labels>
+        <fullName>Operating_Group</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Operating Group:</shortDescription>
+        <value>Operating Group:</value>
+    </labels>
+    <labels>
+        <fullName>Operating_Group_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Operating Group cannot be None. Please select another value</shortDescription>
+        <value>Operating Group cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>OppLabel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OppLabel</shortDescription>
+        <value>Opportunity</value>
+    </labels>
+    <labels>
+        <fullName>Opportunity_Data</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opportunity Data</shortDescription>
+        <value>Opportunity Data</value>
+    </labels>
+    <labels>
+        <fullName>Opportunity_Documents</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opportunity Documents</shortDescription>
+        <value>View Opportunity Documents - Documents&lt;</value>
+    </labels>
+    <labels>
+        <fullName>Opportunity_Id_not_found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>&apos;Opportunity Id not found &apos;</shortDescription>
+        <value>Opportunity Id not found</value>
+    </labels>
+    <labels>
+        <fullName>Opportunity_Id_not_valid</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opportunity Id not valid</shortDescription>
+        <value>Opportunity Id not valid</value>
+    </labels>
+    <labels>
+        <fullName>Opportunity_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opportunity Name:</shortDescription>
+        <value>Opportunity Name:</value>
+    </labels>
+    <labels>
+        <fullName>Opportunity_Name_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opportunity Name cannot be left blank</shortDescription>
+        <value>Opportunity Name cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Opportunity_Solution_Lead</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opportunity Solution Lead</shortDescription>
+        <value>Opportunity Solution Lead</value>
+    </labels>
+    <labels>
+        <fullName>Opportunity_Solution_Lead_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opportunity Solution Lead cannot be left blank</shortDescription>
+        <value>Opportunity Solution Lead cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Opportunity_with_same_SAP_OM_ID_is_already_present</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opportunity with same SAP OM ID is already present</shortDescription>
+        <value>Opportunity with same SAP OM ID is already present</value>
+    </labels>
+    <labels>
+        <fullName>Overall_RAG_Staus_in_Establish_Business_Operations_Tab_cannot_be_None_Please_se</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Overall RAG Staus in Establish Business Operations Tab cannot be None. Please se</shortDescription>
+        <value>Overall RAG Staus in Establish Business Operations Tab cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Overall_RAG_Staus_in_Factory_Engagement_Specific_Tab_cannot_be_None_Please_sel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>&apos;Overall RAG Staus in Factory Engagement Specific Tab cannot be None. Please sel</shortDescription>
+        <value>Overall RAG Staus in Factory Engagement Specific Tab cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Overall_RAG_Staus_in_Implement_Delivery_Capability_Tab_cannot_be_None_Please_se</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Overall RAG Staus in Implement Delivery Capability Tab cannot be None. Please se</shortDescription>
+        <value>Overall RAG Staus in Implement Delivery Capability Tab cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Overall_RAG_Staus_in_Journey_Management_Tab_cannot_be_None_Please_select_anothe</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Overall RAG Staus in Journey Management Tab cannot be None. Please select anothe</shortDescription>
+        <value>Overall RAG Staus in Journey Management Tab cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Overall_RAG_Staus_in_Manage_Mobilization_Program_tab_cannot_be_None_Please_sele</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Overall RAG Staus in Manage Mobilization Program tab cannot be None. Please sele</shortDescription>
+        <value>Overall RAG Staus in Manage Mobilization Program tab cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Overflow_Slot_br</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Overflow Slot&lt;br/&gt;</shortDescription>
+        <value>Overflow Slot&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>PMO_Profile</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>PMO Profile</shortDescription>
+        <value>PMO</value>
+    </labels>
+    <labels>
+        <fullName>Please_Attach_Approval_Email_from_Governance_Lead_for_following_SRAT_nDeal_Nam</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please Attach Approval Email from Governance Lead for following SRAT: \nDeal Nam</shortDescription>
+        <value>Please Attach Approval Email from Governance Lead for following SRAT: \nDeal Name:</value>
+    </labels>
+    <labels>
+        <fullName>Please_Select_The_Location_Mobilization_Primary_Secondary</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please Select The Location Mobilization Primary-Secondary</shortDescription>
+        <value>Please select the Location Mobilization Lead Primary/Secondary on Deal Location!</value>
+    </labels>
+    <labels>
+        <fullName>Please_insert_a_record</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please insert a record</shortDescription>
+        <value>Please insert a record</value>
+    </labels>
+    <labels>
+        <fullName>Please_insert_the_Action_record</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please insert the Action record!</shortDescription>
+        <value>Please insert the Action record!</value>
+    </labels>
+    <labels>
+        <fullName>Please_insert_the_Decision_record</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please insert the Decision record!</shortDescription>
+        <value>Please insert the Decision record!</value>
+    </labels>
+    <labels>
+        <fullName>Please_insert_the_Issue_record</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please insert the Issue record!</shortDescription>
+        <value>Please insert the Issue record!</value>
+    </labels>
+    <labels>
+        <fullName>Please_insert_the_Risk_record</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please insert the Risk record!</shortDescription>
+        <value>Please insert the Risk record!</value>
+    </labels>
+    <labels>
+        <fullName>Please_select_Document_s_to_continue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please select Document(s) to continue</shortDescription>
+        <value>Please select Document(s) to continue</value>
+    </labels>
+    <labels>
+        <fullName>Please_select_Review_Type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please select Review Type</shortDescription>
+        <value>Please select Review Type</value>
+    </labels>
+    <labels>
+        <fullName>Please_select_Reviewer_s_to_continue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please select Reviewer(s) to continue</shortDescription>
+        <value>Please select Reviewer(s) to continue</value>
+    </labels>
+    <labels>
+        <fullName>Please_select_different_meeting_ID_or_a_new_meeting_request_needs_to_be_raised</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please select different meeting ID or a new meeting request needs to be raised</shortDescription>
+        <value>Please select different meeting ID or a new meeting request needs to be raised for this Opportunity!</value>
+    </labels>
+    <labels>
+        <fullName>Please_select_the_required_fields</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please select the required fields</shortDescription>
+        <value>Please select the required fields</value>
+    </labels>
+    <labels>
+        <fullName>Please_select_the_valid_Expected_contract_sign_Quarter</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please select the valid Expected contract sign (Quarter)</shortDescription>
+        <value>Please select the valid Expected contract sign (Quarter)</value>
+    </labels>
+    <labels>
+        <fullName>Please_select_the_valid_Offerings_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please select the valid Offerings Name!</shortDescription>
+        <value>Please select the valid Offerings Name!</value>
+    </labels>
+    <labels>
+        <fullName>Please_select_the_valid_Service</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please select the valid Service!</shortDescription>
+        <value>Please select the valid Service!</value>
+    </labels>
+    <labels>
+        <fullName>Please_set_the_Approver_Name_to_default_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please set the Approver Name to default value!</shortDescription>
+        <value>Please set the Approver Name to default value!</value>
+    </labels>
+    <labels>
+        <fullName>Previous</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Previous</shortDescription>
+        <value>Previous</value>
+    </labels>
+    <labels>
+        <fullName>Prime_SDO_Lead</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Prime SDO Lead</shortDescription>
+        <value>Prime SDO Lead</value>
+    </labels>
+    <labels>
+        <fullName>Public_calendar_id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Public calendar id</shortDescription>
+        <value>005E0000004x35E</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Status_In_Implement_Delivery_Capability_Tab_Cannot_Be_None</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Status In Implement Delivery Capability Tab Cannot Be None</shortDescription>
+        <value>RAG Status in Implement Delivery Capability Tab cannot be None. Please select another value.</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Status_RED_AMBER_Enter_Comments_for_Main_Question_in_Implement_Deliv</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Status-RED/AMBER: enter Comments for Main Question in Implement Deliv</shortDescription>
+        <value>RAG Status-RED/AMBER: Please enter Comments for Main Question in Implement Delivery Capability Tab!</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Status_RED_AMBER_Please_Comments_for_Main_Question_in_Journey_Managem</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Status-RED/AMBER: Please Comments for Main Question in Journey Managem</shortDescription>
+        <value>RAG Status-RED/AMBER: Please enter Comments for Main Question in Journey Management Tab!</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Status_RED_AMBER_Please_enter_Comments_for_Main_Question_in_Establish_Busin</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Status-RED/AMBER: Please enter Comments for Main Question in Establish Busin</shortDescription>
+        <value>RAG Status-RED/AMBER: Please enter Comments for Main Question in Establish Business Operations Tab!</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Status_RED_AMBER_Please_enter_Comments_for_Main_Question_in_Factory_Engagem</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Status-RED/AMBER: Please enter Comments for Main Question in Factory Engagem</shortDescription>
+        <value>RAG Status-RED/AMBER: Please enter Comments for Main Question in Factory Engagement Specific Tab!</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Status_RED_AMBER_Please_enter_Comments_for_Main_Question_in_Manage_Mobiliza</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Status-RED/AMBER: Please enter Comments for Main Question in Manage Mobiliza</shortDescription>
+        <value>RAG Status-RED/AMBER: Please enter Comments for Main Question in Manage Mobilization Tab!</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Status_RED_AMBER_Please_enter_Comments_for_Main_Question_in_OM_Readiness_Su</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Status-RED/AMBER: Please enter Comments for Main Question in OM Readiness Su</shortDescription>
+        <value>RAG Status-RED/AMBER: Please enter Comments for Main Question in OM Readiness Summary Tab!</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Status_RED_AMBER_Please_enter_Comments_for_Question</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Status-RED/AMBER: Please enter Comments for Question #:</shortDescription>
+        <value>RAG Status-RED/AMBER: Please enter Comments for Question #:</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Status_RED_AMBER_Please_enter_Comments_for_Reference_Question</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Status-RED/AMBER: Please enter Comments for Reference Question #:</shortDescription>
+        <value>RAG Status-RED/AMBER: Please enter Comments for Reference Question #:</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Staus_in_Establish_Business_Operations_Tab_cannot_be_None_Please_select_ano</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Staus in Establish Business Operations Tab cannot be None. Please select ano</shortDescription>
+        <value>RAG Staus in Establish Business Operations Tab cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Staus_in_Factory_Engagement_Specific_Tab_cannot_be_None_Please_select_anoth</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Staus in Factory Engagement Specific Tab cannot be None. Please select anoth</shortDescription>
+        <value>RAG Staus in Factory Engagement Specific Tab cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Staus_in_Journey_Management_Tab_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Status in Journey Management Tab cannot be None. Please select another value</shortDescription>
+        <value>RAG Status in Journey Management Tab cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Staus_in_Manage_Mobilization_Program_tab_cannot_be_None_Please_select_anoth</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Staus in Manage Mobilization Program tab cannot be None. Please select anoth</shortDescription>
+        <value>RAG Staus in Manage Mobilization Program tab cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>RAG_Staus_in_OM_Readiness_Summary_tab_cannot_be_None_Please_select_another_valu</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RAG Staus in OM Readiness Summary tab cannot be None. Please select another valu</shortDescription>
+        <value>RAG Staus in OM Readiness Summary tab cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>RFP_Received_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RFP Received cannot be left blank</shortDescription>
+        <value>RFP Received cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>RFP_Response_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RFP Response cannot be left blank</shortDescription>
+        <value>Stage 2 Submit Date (RFP or Proposal Response Due) cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Record_Add_Successfully_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Record Add Successfully Message</shortDescription>
+        <value>Record Added Succesfully!</value>
+    </labels>
+    <labels>
+        <fullName>Record_Added_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Record Added Successfully</shortDescription>
+        <value>Record Added Successfully</value>
+    </labels>
+    <labels>
+        <fullName>Record_Already_Exists_Please_check_the_data</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Record Already Exists.Please check the data.</shortDescription>
+        <value>Record Already Exists.Please check the data.</value>
+    </labels>
+    <labels>
+        <fullName>Record_Saved_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Record Saved Successfully</shortDescription>
+        <value>Record Saved Successfully</value>
+    </labels>
+    <labels>
+        <fullName>Record_Updated_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Record Updated Successfully&apos;</shortDescription>
+        <value>Record Updated Successfully</value>
+    </labels>
+    <labels>
+        <fullName>Record_deleted_successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Record deleted successfully</shortDescription>
+        <value>Record deleted successfully</value>
+    </labels>
+    <labels>
+        <fullName>ReportId</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ReportId</shortDescription>
+        <value>00OE0000002tbYw</value>
+    </labels>
+    <labels>
+        <fullName>Reporting_Status</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Reporting Status:</shortDescription>
+        <value>Reporting Status:</value>
+    </labels>
+    <labels>
+        <fullName>Reporting_Status_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Reporting Status cannot be None. Please select another value</shortDescription>
+        <value>Reporting Status cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Required_Field_Missing_End_Date_Time</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required Field Missing: [End (Date/Time)]</shortDescription>
+        <value>Required Field Missing: [End (Date/Time)]</value>
+    </labels>
+    <labels>
+        <fullName>Required_Field_Missing_Meeting_ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required Field Missing: [Meeting ID]</shortDescription>
+        <value>Required Field Missing: [Meeting ID]</value>
+    </labels>
+    <labels>
+        <fullName>Required_Field_Missing_Region_for_TCV_Value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required Field Missing: [Region] for TCV Value:</shortDescription>
+        <value>Required Field Missing: [Region] for TCV Value:</value>
+    </labels>
+    <labels>
+        <fullName>Required_Field_Missing_Start_Date_Time</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required Field Missing: [Start (Date/Time)]</shortDescription>
+        <value>Required Field Missing: [Start (Date/Time)]</value>
+    </labels>
+    <labels>
+        <fullName>Required_Field_Missing_Subject</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required Field Missing: [Subject]</shortDescription>
+        <value>Required Field Missing: [Subject]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_Application_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing: [Application Name]</shortDescription>
+        <value>Required field is missing: [Application Name]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Action_Assigned_To</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Action:[Assigned To]</shortDescription>
+        <value>Required field is missing in Action:[Assigned To]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Action_Forum_Raised</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Action:[Forum Raised]</shortDescription>
+        <value>Required field is missing in Action:[Forum Raised]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Action_Owned_by</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Action:[Owned by)]</shortDescription>
+        <value>Required field is missing in Action:[Owned by)]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Action_Primary_Owner</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Action:[Primary Owner]</shortDescription>
+        <value>Required field is missing in Action:[Primary Owner]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Action_Raised_By_person</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Action:[Raised By(person)]</shortDescription>
+        <value>Required field is missing in Action:[Raised By(person)]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Action_Raised_at_level</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Action:[Raised at level]</shortDescription>
+        <value>Required field is missing in Action:[Raised at level]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Action_Raised_by_Client_Accenture</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Action:[Raised by Client/Accenture]</shortDescription>
+        <value>Required field is missing in Action:[Raised by Client/Accenture]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Action_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Action:[Title]</shortDescription>
+        <value>Required field is missing in Action:[Title]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Action_Workstream_Area</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Action:[Workstream/Area]</shortDescription>
+        <value>Required field is missing in Action:[Workstream/Area]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Decision_Assigned_To</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Decision:[Assigned To]</shortDescription>
+        <value>Required field is missing in Decision:[Assigned To]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Decision_Decision_Description</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Decision:[Decision Description]</shortDescription>
+        <value>Required field is missing in Decision:[Decision Description]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Decision_Forum_Raised</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Decision:[Forum Raised]</shortDescription>
+        <value>Required field is missing in Decision:[Forum Raised]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Decision_Owned_by</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Decision:[Owned by)]</shortDescription>
+        <value>Required field is missing in Decision:[Owned by)]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Decision_Primary_Owner</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Decision:[Primary Owner]</shortDescription>
+        <value>Required field is missing in Decision:[Primary Owner]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Decision_Raised_By_person</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Decision:[Raised By(person)]</shortDescription>
+        <value>Required field is missing in Decision:[Raised By(person)]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Decision_Raised_at_level</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Decision:[Raised at level]</shortDescription>
+        <value>Required field is missing in Decision:[Raised at level]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Decision_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Decision:[Title]</shortDescription>
+        <value>Required field is missing in Decision:[Title]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Decision_Workstream_Area</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Decision:[Workstream/Area]</shortDescription>
+        <value>Required field is missing in Decision:[Workstream/Area]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Issue_Assigned_To</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Issue:[Assigned To]</shortDescription>
+        <value>Required field is missing in Issue:[Assigned To]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Issue_Forum_Raised</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Issue:[Forum Raised]</shortDescription>
+        <value>Required field is missing in Issue:[Forum Raised]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Issue_Issue_Severity</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Issue:[Issue Severity]</shortDescription>
+        <value>Required field is missing in Issue:[Issue Severity]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Issue_Owned_by</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Issue:[Owned by)]</shortDescription>
+        <value>Required field is missing in Issue:[Owned by)]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Issue_Primary_Owner</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Issue:[Primary Owner]</shortDescription>
+        <value>Required field is missing in Issue:[Primary Owner]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Issue_Raised_By_person</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Issue:[Raised By(person)]</shortDescription>
+        <value>Required field is missing in Issue:[Raised By(person)]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Issue_Raised_at_level</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Issue:[Raised at level]</shortDescription>
+        <value>Required field is missing in Issue:[Raised at level]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Issue_Raised_by_Client_Accenture</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Issue:[Raised by Client/Accenture]</shortDescription>
+        <value>Required field is missing in Issue:[Raised by Client/Accenture]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Issue_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Issue:[Title]</shortDescription>
+        <value>Required field is missing in Issue:[Title]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Issue_Workstream_Area</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Issue:[Workstream/Area]</shortDescription>
+        <value>Required field is missing in Issue:[Workstream/Area]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Risk_Assigned_To</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Risk:[Assigned To]</shortDescription>
+        <value>Required field is missing in Risk:[Assigned To]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Risk_Owned_by</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Risk:[Owned by)]</shortDescription>
+        <value>Required field is missing in Risk:[Owned by)]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Risk_Primary_Owner</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Risk:[Primary Owner]</shortDescription>
+        <value>Required field is missing in Risk:[Primary Owner]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Risk_Raised_By_person</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Risk:[Raised By(person)]</shortDescription>
+        <value>Required field is missing in Risk:[Raised By(person)]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Risk_Raised_at_level</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Risk:[Raised at level]</shortDescription>
+        <value>Required field is missing in Risk:[Raised at level]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Risk_Raised_by_Client_Accenture</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Risk:[Raised by Client/Accenture]</shortDescription>
+        <value>Required field is missing in Risk:[Raised by Client/Accenture]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Risk_Risk_Impact</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Risk:[Risk Impact]</shortDescription>
+        <value>Required field is missing in Risk:[Risk Impact]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Risk_Risk_Probability</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Risk:[Risk Probability]</shortDescription>
+        <value>Required field is missing in Risk:[Risk Probability]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Risk_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Risk:[Title]</shortDescription>
+        <value>Required field is missing in Risk:[Title]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Risk_Workstream_Area</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Risk:[Workstream/Area]</shortDescription>
+        <value>Required field is missing in Risk:[Workstream/Area]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Service_Delivery_Application_Application_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Service Delivery Application: [Application Name]</shortDescription>
+        <value>Required field is missing in Service Delivery Application: [Application Name]</value>
+    </labels>
+    <labels>
+        <fullName>Required_field_is_missing_in_Service_Management_Application_Application_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required field is missing in Service Management Application: [Application Name]</shortDescription>
+        <value>Required field is missing in Service Management Application: [Application Name]</value>
+    </labels>
+    <labels>
+        <fullName>Required_fields_missing_Title_Question_Description_Category_for_Question</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required fields missing: [Title / Question Description / Category] for Question</shortDescription>
+        <value>Required fields missing: [Title / Question Description / Category] for Question #:</value>
+    </labels>
+    <labels>
+        <fullName>Required_fields_missing_Title_Question_Description_for_Main_Question_in_Fac</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required fields missing: [Title / Question Description] for Main Question in Fac</shortDescription>
+        <value>Required fields missing: [Title / Question Description] for Main Question in Factory Engagement Specific Tab!</value>
+    </labels>
+    <labels>
+        <fullName>Review_and_Approval_Email</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Review and Approval Email</shortDescription>
+        <value>review_and_approval@e-v85ak3924wj12u9mti4uxf5unx07t62yw09up1lw3um7piux2.e-zi3zmac.e.apex.salesforce.com</value>
+    </labels>
+    <labels>
+        <fullName>Risk_Level_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Risk Level cannot be None. Please select another value</shortDescription>
+        <value>Risk Level cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Risk_Record_Added_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Risk Record Added Successfully!</shortDescription>
+        <value>&apos;Risk Record Added Successfully!&apos;</value>
+    </labels>
+    <labels>
+        <fullName>Risk_Records_Saved_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Risk Records Saved Successfully!</shortDescription>
+        <value>&apos;Risk Records Saved Successfully!&apos;</value>
+    </labels>
+    <labels>
+        <fullName>Roles</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Roles</shortDescription>
+        <value>Roles</value>
+    </labels>
+    <labels>
+        <fullName>SAP_OM_ID_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SAP OM ID cannot be left blank</shortDescription>
+        <value>SAP OM ID cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>SD_Governance_Lead_Coach</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SD Governance Lead/Coach</shortDescription>
+        <value>SD Governance Lead</value>
+    </labels>
+    <labels>
+        <fullName>SRATChecklist_KTLeadinline_UTL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SRATChecklist KTLeadinline UTL</shortDescription>
+        <value>/apex/SRATChecklist_KTLeadInline?id=</value>
+    </labels>
+    <labels>
+        <fullName>SRAT_Checklist_Saved_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SRAT Checklist Saved Successfully!</shortDescription>
+        <value>SRAT Checklist Saved Successfully!</value>
+    </labels>
+    <labels>
+        <fullName>SRAT_Checklist_Submitted_Successfully</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SRAT Checklist Submitted Successfully</shortDescription>
+        <value>SRAT Checklist Submitted Successfully</value>
+    </labels>
+    <labels>
+        <fullName>SRAT_ITEM</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SRAT ITEM</shortDescription>
+        <value>\n SRAT Item:</value>
+    </labels>
+    <labels>
+        <fullName>SRAT_Record_Exists_Error</fullName>
+        <categories>No such SRAT Record exists</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SRAT Record Exists Error</shortDescription>
+        <value>No such SRAT Record exists!</value>
+    </labels>
+    <labels>
+        <fullName>SSRT_Content_Manager_role</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SSRT Content Manager role</shortDescription>
+        <value>Content Manager</value>
+    </labels>
+    <labels>
+        <fullName>SSRT_with_Content_Integrator_No_Opp_template</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SSRT with Content Integrator &amp; No Opp template</shortDescription>
+        <value>SSRT_with_Content_Integrator_No_Opp</value>
+    </labels>
+    <labels>
+        <fullName>SWBTriggerBoolean</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SWBTriggerBoolean</shortDescription>
+        <value>True</value>
+    </labels>
+    <labels>
+        <fullName>Save</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Save</shortDescription>
+        <value>Save</value>
+    </labels>
+    <labels>
+        <fullName>Save_Successfully_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Save Successfully Message</shortDescription>
+        <value>Saved successfully!</value>
+    </labels>
+    <labels>
+        <fullName>Search</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Search</shortDescription>
+        <value>Search</value>
+    </labels>
+    <labels>
+        <fullName>Select_Date_Exception</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Select_Date_Exception</shortDescription>
+        <value>Please select the dates for which exception records needs to be search&quot; id=&quot;searchHeader</value>
+    </labels>
+    <labels>
+        <fullName>Service</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Service:</shortDescription>
+        <value>Service:</value>
+    </labels>
+    <labels>
+        <fullName>Sol_Start_Date</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Solution Start Date cannot be left blank</shortDescription>
+        <value>Solution Start Date cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Solution_Admin</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Solution Admin</shortDescription>
+        <value>Solution Admin</value>
+    </labels>
+    <labels>
+        <fullName>Solution_Component_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Solution Component cannot be left blank</shortDescription>
+        <value>Solution Component cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Solution_Id_not_found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Solution Id not found</shortDescription>
+        <value>Solution Id not found</value>
+    </labels>
+    <labels>
+        <fullName>Solution_Leadership_Role</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Solution Leadership Role</shortDescription>
+        <value>Solution Leadership</value>
+    </labels>
+    <labels>
+        <fullName>Solution_Operations_Group</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Solution Operations Group</shortDescription>
+        <value>Operations Group</value>
+    </labels>
+    <labels>
+        <fullName>Solution_Operations_Profile_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Solution Operations Profile Name</shortDescription>
+        <value>Solution Operations</value>
+    </labels>
+    <labels>
+        <fullName>Solution_Specialist</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Solution Specialist</shortDescription>
+        <value>Solution Specialist</value>
+    </labels>
+    <labels>
+        <fullName>Solution_Specialist_PMO_group</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Solution Specialist PMO group</shortDescription>
+        <value>Solution Specialist PMO group</value>
+    </labels>
+    <labels>
+        <fullName>Split</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Split</shortDescription>
+        <value>»</value>
+    </labels>
+    <labels>
+        <fullName>Stage_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stage cannot be None. Please select another value</shortDescription>
+        <value>Stage cannot be None. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Start_Date</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Start Date</shortDescription>
+        <value>Start Date</value>
+    </labels>
+    <labels>
+        <fullName>Status_cannot_be_none_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Status cannot be none. Please select another value</shortDescription>
+        <value>Status cannot be none. Please select another value</value>
+    </labels>
+    <labels>
+        <fullName>Status_value_cannot_be_None_Please_select_another_value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Status value cannot be None. Please select another value</shortDescription>
+        <value>&apos;Status value cannot be None. Please select another value&apos;</value>
+    </labels>
+    <labels>
+        <fullName>Submit_Date_cannot_be_left_blank</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Submit Date cannot be left blank</shortDescription>
+        <value>Stage 1 Submit Date (RFI Response Due) cannot be left blank</value>
+    </labels>
+    <labels>
+        <fullName>Submitted</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Submitted</shortDescription>
+        <value>Submitted</value>
+    </labels>
+    <labels>
+        <fullName>Summary_Solution_Model</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Summary Solution Model</shortDescription>
+        <value>Summary Solution Model</value>
+    </labels>
+    <labels>
+        <fullName>Super_Admin</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Super Admin</shortDescription>
+        <value>Super Admin</value>
+    </labels>
+    <labels>
+        <fullName>System_Admin_Profile</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>System Admin Profile</shortDescription>
+        <value>System Administrator</value>
+    </labels>
+    <labels>
+        <fullName>TCV_Value_should_be_greater_than_or_equal_to_0M</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TCV Value should be greater than or equal to 0M!</shortDescription>
+        <value>TCV Value should be greater than or equal to 0M!</value>
+    </labels>
+    <labels>
+        <fullName>TCV_Value_should_be_greater_than_or_equal_to_10M</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TCV Value should be greater than or equal to 10M!</shortDescription>
+        <value>TCV Value should be greater than or equal to 10M!</value>
+    </labels>
+    <labels>
+        <fullName>Technical_Architect</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Technical Architect</shortDescription>
+        <value>Technical Architect</value>
+    </labels>
+    <labels>
+        <fullName>Technical_Architect_PMO_Group</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Technical Architect PMO Group</shortDescription>
+        <value>Technical Architect PMO Group</value>
+    </labels>
+    <labels>
+        <fullName>Technology_Tool</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Technology Tool:</shortDescription>
+        <value>Technology Tool:</value>
+    </labels>
+    <labels>
+        <fullName>The_meeting_with_the_meeting_ID_has_already_been_scheduled</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>The meeting with the meeting ID has already been scheduled!</shortDescription>
+        <value>The meeting with the meeting ID has already been scheduled!</value>
+    </labels>
+    <labels>
+        <fullName>There_Is_No_Question_Set_For_Establish_Business_Operations</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>There Is No Question Set For Establish Business Operations</shortDescription>
+        <value>There is no question set for Establish Business Operations!</value>
+    </labels>
+    <labels>
+        <fullName>There_Is_No_Question_Set_For_Implement_Delivery_Capability</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>There Is No Question Set For Implement Delivery Capability</shortDescription>
+        <value>There is no question set for Implement Delivery Capability!</value>
+    </labels>
+    <labels>
+        <fullName>There_Is_No_Question_Set_For_Journey_Management</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>There Is No Question Set For Journey Management</shortDescription>
+        <value>There is no question set for Journey Management!</value>
+    </labels>
+    <labels>
+        <fullName>There_Is_No_Question_Set_For_Manage_Mobilization_Program</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>There Is No Question Set For Manage Mobilization Program</shortDescription>
+        <value>There is no question set for Manage Mobilization Program!</value>
+    </labels>
+    <labels>
+        <fullName>There_Is_No_Question_Set_For_OM_Readiness_Summary</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>There Is No Question Set For OM Readiness Summary</shortDescription>
+        <value>There is no question set for OM Readiness Summary!</value>
+    </labels>
+    <labels>
+        <fullName>There_is_no_record_to_save</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>There is no record to save.</shortDescription>
+        <value>There is no record to save.</value>
+    </labels>
+    <labels>
+        <fullName>This_SRAT_Checklist_has_Already_been_Submitted</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>This SRAT Checklist has Already been Submitted</shortDescription>
+        <value>This SRAT Checklist has Already been Submitted!</value>
+    </labels>
+    <labels>
+        <fullName>TicketLabelBoolean</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TicketLabelBoolean</shortDescription>
+        <value>True</value>
+    </labels>
+    <labels>
+        <fullName>Title_field_in_Issue_Summary_cannot_be_deleted</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title field in Issue Summary cannot be deleted!</shortDescription>
+        <value>&apos;Title field in Issue Summary cannot be deleted!&apos;</value>
+    </labels>
+    <labels>
+        <fullName>Title_field_in_Risk_Summary_cannot_be_deleted</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title field in Risk Summary cannot be deleted!</shortDescription>
+        <value>&apos;Title field in Risk Summary cannot be deleted!&apos;</value>
+    </labels>
+    <labels>
+        <fullName>Unassigned</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Unassigned</shortDescription>
+        <value>Unassigned</value>
+    </labels>
+    <labels>
+        <fullName>Upload_Budget_Cost_Summary</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Upload Budget Cost Summary</shortDescription>
+        <value>Upload Budget Cost Summary</value>
+    </labels>
+    <labels>
+        <fullName>Upload_IO_CostModel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Upload_IO_CostModel</shortDescription>
+        <value>Upload IO Cost Model</value>
+    </labels>
+    <labels>
+        <fullName>Upload_file</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Upload_file</shortDescription>
+        <value>Upload File</value>
+    </labels>
+    <labels>
+        <fullName>Visualforce_Example</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Visualforce Example</shortDescription>
+        <value>Visualforce Example</value>
+    </labels>
+    <labels>
+        <fullName>Wave_Plan_Version</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>High Level Mobilization Plan</shortDescription>
+        <value>\nHigh Level Mobilization Plan:</value>
+    </labels>
+    <labels>
+        <fullName>Workbench_User</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Workbench User</shortDescription>
+        <value>Workbench User</value>
+    </labels>
+    <labels>
+        <fullName>X1_Tech_Documents</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>1. Tech Documents</shortDescription>
+        <value>1. Tech Documents</value>
+    </labels>
+    <labels>
+        <fullName>You_can_select_only</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>You can select only</shortDescription>
+        <value>You can select only</value>
+    </labels>
+    <labels>
+        <fullName>You_cannot_update_offering_please_contact_workbench_administrator</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>You cannot update offering, please contact workbench administrator.</shortDescription>
+        <value>You cannot update offering, please contact workbench administrator.</value>
+    </labels>
+    <labels>
+        <fullName>You_do_not_have_permission_to_perform_this_action</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>You do not have permission to perform this action.</shortDescription>
+        <value>You do not have permission to perform this action.</value>
+    </labels>
+    <labels>
+        <fullName>You_do_not_have_the_level_of_access_necessary_to_perform_the_operation_you_reque</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>You do not have the level of access necessary to perform the operation you reque</shortDescription>
+        <value>You do not have the level of access necessary to perform the operation you requested.</value>
+    </labels>
+    <labels>
+        <fullName>apex_BPO_Opportunity_tab_id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>/apex/BPO_Opportunity_tab?id=</shortDescription>
+        <value>/apex/BPO_Opportunity_tab?id=</value>
+    </labels>
+    <labels>
+        <fullName>apex_RAIDLog_Inline</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>/apex/RAIDLog_Inline</shortDescription>
+        <value>/apex/RAIDLog_Inline</value>
+    </labels>
+    <labels>
+        <fullName>apex_SRATChecklist_Inline1_id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>/apex/SRATChecklist_Inline1?id=</shortDescription>
+        <value>/apex/SRATChecklist_Inline1?id=</value>
+    </labels>
+    <labels>
+        <fullName>apex_SRATChecklist_ReadOnlyInline_id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>/apex/SRATChecklist_ReadOnlyInline?id=</shortDescription>
+        <value>/apex/SRATChecklist_ReadOnlyInline?id=</value>
+    </labels>
+    <labels>
+        <fullName>document_folder_name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>document folder name</shortDescription>
+        <value>1. Required Documents</value>
+    </labels>
+    <labels>
+        <fullName>for_TCV</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>for TCV:</shortDescription>
+        <value>for TCV:</value>
+    </labels>
+    <labels>
+        <fullName>https_c_cs8_visual_force_com_servlet_servlet_OutlookEvent_id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>https://c.cs8.visual.force.com/servlet/servlet.OutlookEvent?id=</shortDescription>
+        <value>https://c.cs8.visual.force.com/servlet/servlet.OutlookEvent?id=</value>
+    </labels>
+    <labels>
+        <fullName>in_Establish_Business_Operations_Tab</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>in Establish Business Operations Tab!</shortDescription>
+        <value>in Establish Business Operations Tab!</value>
+    </labels>
+    <labels>
+        <fullName>in_Factory_Engagement_Specific_Tab</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>in Factory Engagement Specific Tab!</shortDescription>
+        <value>in Factory Engagement Specific Tab!</value>
+    </labels>
+    <labels>
+        <fullName>in_Implement_Delivery_Capability_Tab</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>in Implement Delivery Capability Tab!</shortDescription>
+        <value>in Implement Delivery Capability Tab!</value>
+    </labels>
+    <labels>
+        <fullName>in_Journey_Management_Tab</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>in Journey Management Tab!</shortDescription>
+        <value>in Journey Management Tab!</value>
+    </labels>
+    <labels>
+        <fullName>in_Manage_Mobilization_Tab</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>in Manage Mobilization Tab!</shortDescription>
+        <value>in Manage Mobilization Tab!</value>
+    </labels>
+    <labels>
+        <fullName>in_OM_Readiness_Summary_Tab</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>in OM Readiness Summary Tab!</shortDescription>
+        <value>in OM Readiness Summary Tab!</value>
+    </labels>
+    <labels>
+        <fullName>msg_for_team_member</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>msg for team member</shortDescription>
+        <value>SD Governance Lead/Coach role is added to Opportunity Team. Please click on Home tab and open your Opportunity again in order to view Governance tab.</value>
+    </labels>
+    <labels>
+        <fullName>nWave_Plan_Version</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>\nHigh Level Mobilization Plan</shortDescription>
+        <value>\nHigh Level Mobilization Plan</value>
+    </labels>
+    <labels>
+        <fullName>n_SRAT_Item</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>\n SRAT Item:</shortDescription>
+        <value>\n SRAT Item:</value>
+    </labels>
+    <labels>
+        <fullName>offering_all</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>offering all</shortDescription>
+        <value>ALL</value>
+    </labels>
+    <labels>
+        <fullName>offering_lead</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>offering lead</shortDescription>
+        <value>offering lead</value>
+    </labels>
+    <labels>
+        <fullName>post_approval_template</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>post approval template</shortDescription>
+        <value>Post_Approval</value>
+    </labels>
+    <labels>
+        <fullName>runapprovalmeetintrigger</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>runapprovalmeetintrigger</shortDescription>
+        <value>true</value>
+    </labels>
+    <labels>
+        <fullName>servlet_servlet_OutlookEvent_id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>/servlet/servlet.OutlookEvent?id=</shortDescription>
+        <value>/servlet/servlet.OutlookEvent?id=</value>
+    </labels>
+    <labels>
+        <fullName>solution_editor_profile</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>solution editor profile</shortDescription>
+        <value>Solution Editor</value>
+    </labels>
+</CustomLabels>
