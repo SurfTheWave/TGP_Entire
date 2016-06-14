@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <links>MWB_Ticket_Template</links>
+    <links>MWB_Ticket_tool</links>
+    <pageComponentType>links</pageComponentType>
+</HomePageComponent>

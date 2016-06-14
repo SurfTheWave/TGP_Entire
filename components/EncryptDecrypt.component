@@ -1,0 +1,4 @@
+<apex:component controller="EncryptDecrypt" access="global">
+    <apex:attribute name="requestId" type="id" assignTo="{!request}" description="Id of approval request to be encryted"/>
+    <apex:outputLink value="https://dev25-approvalprocess.cs19.force.com/?id={!encryptedDataString}" id="theLink">Solution Validation Memo</apex:outputLink>
+</apex:component>

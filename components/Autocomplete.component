@@ -1,0 +1,132 @@
+<apex:component controller="AutoComplete_Con" selfClosing="true">
+    <apex:attribute name="SObject" description="SOQL Object to query" type="String" assignTo="{!sObjVal}" required="true"/>
+    <apex:attribute name="labelField" description="API Name of Field to display for label" type="String" required="true"/>
+    <apex:attribute name="valueField" description="API Name of Field to display for value that is passed to the targetField" type="String" required="true"/>
+    <apex:attribute name="targetField" description="Field of current object that will hold the selection." type="Object"/>
+    <apex:attribute name="inputLabel" description="Field will hold the label for the inputText." type="String"/>
+    <apex:attribute name="requiredComponent" description="Whether Component is required or not" type="boolean"/>
+    <apex:attribute name="errorClassName1stComp" description="Whether Component is required or not" type="String"/>
+    <apex:attribute name="errorClassName2ndComp" description="Whether Component is required or not" type="String"/>
+    <apex:attribute name="page1stComp" description="Whether Component is the only one for the page" type="boolean"/>
+    <apex:attribute name="page2ndComp" description="Whether two Component is there in the page" type="boolean"/>
+    
+    <apex:attribute name="displayField" description="Whether Component is required or not" assignTo="{!cacheField}" type="String"/>
+    
+    
+    <!--Required js files-->
+    <apex:includeScript value="{!URLFOR($Resource.jQuery_BlogForce9_162, 'js/jquery-1.6.2.min.js')}"/>
+    <apex:includeScript value="{!URLFOR($Resource.jQuery_BlogForce9_162, 'js/jquery-ui-1.8.16.custom.min.js')}"/>
+    <apex:stylesheet value="{!URLFOR($Resource.jQuery_BlogForce9_162, 'css/ui-lightness/jquery-ui-1.8.16.custom.css')}"/>
+    <script>
+    
+        /*
+        *check if jquery is loaded if not load jquery again
+       **/
+       if(typeof jQuery != 'undefined'){
+           $j =jQuery.noConflict();
+       }
+        
+       $j(function(){
+            $j( ".auto{!randomJsIden}" ).autocomplete({
+                source: function(request, response) {
+                   queryData{!randomJsIden}(response ,request.term);
+                },
+                minLength: 0,
+                select: function(event, ui) {
+                                    //pass the selected value to hidden input field
+                                    $j('.hiddenField{!randomJsIden}').val(ui.item.value);                              
+                                    $j(this).val(ui.item.label);
+                                   
+                                    return false;
+                                },
+                focus: function( event, ui ) {
+                        $j(this).val( ui.item.label );
+                        return false;  
+                }
+            });
+            
+            $j( ".auto{!randomJsIden}" ).change(function() {
+               if($j(this).val().trim()==''){
+                   $j('.hiddenField{!randomJsIden}').val('');    
+               }
+            });
+            
+            if($j('.hiddenField{!randomJsIden}').val().trim()==''){
+                   $j( ".auto{!randomJsIden}" ).val('');
+            }
+                   
+        });
+        
+         /*
+        *This method queries data according to the passed parameter
+        *and populates the combobox accordingly
+        ***/    
+        function queryData{!randomJsIden}(response,param){
+           Visualforce.remoting.Manager.invokeAction(
+                     '{!$RemoteAction.AutoComplete_Con.getData}','{!sObjVal}','{!labelField}','{!valueField}',param,
+                     function(result, event){
+                         //if success
+                         if(event.status){ 
+                            var data = [];  
+                            $j.each(result,function(){
+                                 var obj = new Object();
+                                 for (var field in this) { 
+                                     //match the passed label and returned value to populate the label and value                                  
+                                     if((field.toUpperCase()=='{!labelField }'.toUpperCase())){
+                                         obj.label = this[field];                                                                               
+                                     }
+                                     else if((field.toUpperCase()=='{!valueField}'.toUpperCase())){
+                                         obj.value= this[field];                                                                               
+                                     }                                    
+                                }                                
+                                 data.push(obj);
+                             });
+                             //return the dataa
+                             response( data);
+                         }
+                         else{
+                              alert('Invalid Field/Object API Name : '+event.message);
+                         }
+                         
+                     }, 
+                      {escape: true}
+                );
+            }     
+    </script>
+    <style>
+        .ui-autocomplete {
+            max-height: 200px;
+            overflow-y: auto;
+            /* prevent horizontal scrollbar */
+            overflow-x: hidden;
+            /* add padding to account for vertical scrollbar */
+            padding-right: 20px;
+        }
+    </style>
+    <tbody>
+        <th class="labelCol vfLabelColTextWrap " scope="row">
+                <label for="clientProcessPage:WaveProcesForm:PageBlock:j_id6:theTextInput">
+                    {!inputLabel}
+                </label>
+        </th>
+        <td class="dataCol ">
+                <div class="requiredInput">
+                    <div class="requiredBlock"></div>
+                    <apex:inputText styleClass="auto{!randomJsIden}" value="{!cacheField}" onchange="$j('.hiddenField{!randomJsIden}').val($j(this).val());"  />
+                    <apex:outputPanel styleClass="errorMsg" style="{!errorClassName1stComp}"  id="Comp1stId" rendered="{!page1stComp}" >
+                        <font color="red"><strong>Error:</strong> You must enter a value</font>
+                    </apex:outputPanel>
+                    
+                </div>
+            </td>
+    </tbody>
+    
+    
+    
+   
+    <apex:outputPanel id="hiddenPanel" style="display:none">
+        
+            <apex:inputText value="{!targetField}" id="hiddenField"  styleClass="hiddenField{!randomJsIden}"  style="display:none" />
+    </apex:outputPanel>
+
+</apex:component>

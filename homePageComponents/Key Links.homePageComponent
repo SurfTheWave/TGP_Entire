@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <links>Solution_Development_resources</links>
+    <links>I_CON</links>
+    <links>Opportunity_Documents</links>
+    <links>CCA_and_SS_Engagement_Criteria</links>
+    <links>BPOSE</links>
+    <pageComponentType>links</pageComponentType>
+</HomePageComponent>

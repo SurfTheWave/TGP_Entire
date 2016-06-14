@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <body>&lt;a href=&quot;#&quot; target=&quot;_parent&quot;&gt;&lt;iframe height=&quot;400&quot; marginheight=&quot;0&quot; src=&quot;/apex/MyTask&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; marginwidth=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/a&gt;</body>
+    <pageComponentType>htmlArea</pageComponentType>
+    <width>wide</width>
+</HomePageComponent>
